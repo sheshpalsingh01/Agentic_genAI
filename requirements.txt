@@ -7,3 +7,6 @@ ipython
 langchain-openai
 langchain-tavily
 langgraph-cli[inmen]
+langchain-mcp-adapters
+fastmcp
+mcp
