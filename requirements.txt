@@ -10,3 +10,5 @@ langgraph-cli[inmen]
 langchain-mcp-adapters
 fastmcp
 mcp
+deepagents
+tavily-python
